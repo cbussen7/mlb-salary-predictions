@@ -1,2 +1,2 @@
 # mlb-salary-predictions
-This repo contains several different R models used to predict a MLB player's salary, including multiple linear regression, polynomial regression, LASSO, Ridge, and Elastic-net regression.
+This repo contains several different R models used to predict a MLB player's salary, including multiple linear regression, polynomial regression, LASSO, Ridge, and Elastic-net regression. Additionally, I created several models with transformed variables and used different subset algorithms (forward, backward, and stepwise selection) to identify potentially promising reduced models. I also perform a large amount of data cleaning and EDA prior to model creation to ensure that the models will be as useful as possible.
